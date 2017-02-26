@@ -1,6 +1,6 @@
 Zhihu Crawler
 ====
-[![license](https://badges.frapsoft.com/os/mit/mit.svg?v=102)][https://github.com/ellerbrock/open-source-badge/]
+[![license](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 A web spider to crawl networks, user profiling and user generated content on [Zhihu](https://www.zhihu.com)
 
